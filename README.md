@@ -17,12 +17,12 @@ Follow these steps to get the Moovie application up and running:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/marcofolgado76/MovieApplication.git
+   git clone https://github.com/marcofolgado76/MovieApp.git
 
 2. **Navigate to the Project Directory**: Change your working directory to the cloned project folder:
 
     ```bash
-   cd MovieApplication
+   cd MovieApp
 
 3. **Install Dependencies**: Install the project dependencies by running:
 
